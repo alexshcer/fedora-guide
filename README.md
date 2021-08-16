@@ -29,4 +29,20 @@ Connect your device with either of the connection mentioned above and people usi
   ```bash 
   sudo dnf install broadcom-wl
   ```
-
+  **_AND_**
+  reboot your system
+  ```
+  reboot
+  ```
+  - For other drivers:
+  ```
+  sudo dnf install kmod-wl
+  ```
+  reboot your system
+  **_OR_**
+  ```
+  sudo dnf install akmod-wl
+  ```
+  reboot your system
+  **_If Still not working_**
+  Googlt it
