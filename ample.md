@@ -1,4 +1,0 @@
-<!--heading-->
-#heafing
-
-![hate](Http)
