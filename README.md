@@ -1,2 +1,2 @@
 <!--Heading-->
-<span style="color:white">#Fedora Linux Guide</span>.
+<h1 style="color:white">Fedora Linux Guide</h1>.
