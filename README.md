@@ -44,3 +44,13 @@ Connect your device with either of the connection mentioned above and people usi
    **_If Still not working_**
   
    Googlt it
+
+<pre>
+2. Why the freaking Bluetooth not working ?
+</pre>
+
+- To enable bluetooth:
+    ```bash 
+    systemctl emable bluetooth
+    systemctl start bluetooth
+    ```
