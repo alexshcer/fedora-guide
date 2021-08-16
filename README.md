@@ -41,6 +41,6 @@ Connect your device with either of the connection mentioned above and people usi
   ```
   reboot your system
   
-  **_If Still not working_**
+   **_If Still not working_**
   
-  Googlt it
+   Googlt it
