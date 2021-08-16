@@ -29,11 +29,8 @@ Connect your device with either of the connection mentioned above and people usi
   ```bash 
   sudo dnf install broadcom-wl
   ```
-  **_AND_**
-  reboot your system
-  ```
-  reboot
-  ```
+    **_AND_** reboot your system
+  
   - For other drivers:
   ```
   sudo dnf install kmod-wl
