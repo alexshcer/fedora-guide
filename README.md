@@ -54,3 +54,9 @@ Connect your device with either of the connection mentioned above and people usi
     systemctl emable bluetooth
     systemctl start bluetooth
     ```
+    
+<style>
+  *{
+  background-color:#0000;
+  }
+</style>
