@@ -1,0 +1,12 @@
+title: "Fedora Guide"
+description: "🎶 A Discord music bot that’s easy to set up and run yourself!"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+url: "https://alexshcer.github.io/fedora-guide"
+baseurl: ""
+footer_content: "Copyright &copy; 2021 AS"
+aux_links_new_tab: true
+plugins:
+  - jekyll-seo-tag
