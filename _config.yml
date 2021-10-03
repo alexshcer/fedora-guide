@@ -9,4 +9,4 @@ baseurl: ""
 footer_content: "Copyright &copy; 2021 AS"
 aux_links_new_tab: true
 plugins:
-  - jekyll-seo-tag
+  - jekyll-readme-index
